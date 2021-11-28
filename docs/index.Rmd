@@ -1,0 +1,12 @@
+---
+title: "Min's Project Home Page"
+author: "Min Hein Htike"
+date: "11/27/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Welcome to Min's Course Page!
