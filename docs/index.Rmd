@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Welcome to Min's Course Page!
+
+[Final Project: R Reference Guide](final_R_reference.html)
