@@ -2,7 +2,10 @@
 title: "Min's Project Home Page"
 author: "Min Hein Htike"
 date: "11/27/2021"
-output: html_document
+output: 
+  html_document: 
+    toc: yes
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
